@@ -1,0 +1,9 @@
+== README
+
+Exploring Ember using the tutorial [http://pixelhandler.com/blog/2013/09/24/scaffold-for-a-browser-app-built-with-ember-js-and-rails/]
+
+Source code located [https://github.com/pixelhandler/journal]
+
+
+
+
